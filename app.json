@@ -29,32 +29,32 @@
         "M_REPLY": {
             "description": "Auto reply when mentioned.",
             "required": true,
-            "value":"*Mention reply message here*"
+            "value":"*Thanks for mentioning*"
         },
         "M_REPLY_VAR": {
             "description": "Auto reply true/false.",
             "required": true,
-            "value":"true"
+            "value":"false"
 },
         "BGM_FILTER": {
             "description": "If you likes bgm you can write 'true'. Otherwise false",
             "required": false,
-            "value": "true"
+            "value": "false"
         },
         "ALL_IMG": {
             "description": "Give an image link for your bot!",
             "required": true,
-            "value": "https://i.pinimg.com/originals/0e/c8/8c/0ec88ca1469125fc11b4ce76830602f4.jpg"
+            "value": "https://i.pinimg.com/originals/ce/1a/9c/ce1a9cb9ad84f50c3e701e47b96568c4.jpg"
         },
         "DIALOGUE": {
             "description": "Give an image link for your bot!",
             "required": true,
-            "value": "Killadism never ends! (Change this)"
+            "value": "*Possibilities are infinite)"
         },
         "ALL_CAPTION": {
             "description": "Give your caption here. Example: Made by Raganork.",
             "required": true,
-            "value": "*YOUR CAPTION HERE*"
+            "value": "*Made by Sam Pandey*"
         },
         "VERIFIED": {
             "description": "Jid given above the verified tick. Use 0 for official WhatsApp",
@@ -83,7 +83,7 @@
         "WORK_TYPE": {
             "description": "Raganork bot Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
-            "value": "public"
+            "value": "private"
         },
         "HEROKU_APP_NAME": {
             "description": "Heroku APP Name.",
@@ -96,7 +96,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "Alive message here"
+            "value": "Hii,This is a bot,developed by Sam Pandey"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
@@ -121,12 +121,12 @@
         "ALL_NUMBER": {
             "description": "Type your number here",
             "required": false,
-            "value": "wa.me/919074309534"
+            "value": "wa.me/919628516236"
         },
         "V_HEADER": {
             "description": "Shows on top of verified tick. Type any words here.",
             "required": true,
-            "value": "Any words here"
+            "value": " Sam Pandey"
         },
         "NO_ONLINE": {
             "description": "Type true if you don't want to appear online.",
@@ -136,17 +136,17 @@
         "IG": {
             "description": "Your instagram link(optional)!",
             "required": false,
-            "value": "https://instagram.com/username"
+            "value": "https://instagram.com/ikshwaku.pandey"
         },
         "OWNER_NAME": {
             "description": "Owner name used in many commands! Type your name here.",
             "required": true,
-            "value": "Owner name"
+            "value": "Sam Pandey"
         },
         "TAG_HEADER": {
             "description": "Owner name used in many commands! Type your name here.",
             "required": false,
-            "value": "*Hey*"
+            "value": "*Sam Pandey*"
         },   
         "FIND_KEY": {
             "description": "API key for .find command. Get it from https://dashboard.audd.io/",
@@ -181,7 +181,7 @@
         "BOT_NAME": {
             "description": "Your bot's name. This is very important!",
             "required": true,
-            "value": "Bot name"
+            "value": "Sam Pandey"
              
         }
     },
